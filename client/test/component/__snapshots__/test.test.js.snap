@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test component is a H2 element with class .test 1`] = `
+<h2
+  className="test normal"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Test Component Updated HMR with Jest
+</h2>
+`;
+
+exports[`Test component is a H2 element with class .test 2`] = `
+<h2
+  className="test hovered"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Test Component Updated HMR with Jest
+</h2>
+`;
+
+exports[`Test component is a H2 element with class .test 3`] = `
+<h2
+  className="test normal"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Test Component Updated HMR with Jest
+</h2>
+`;

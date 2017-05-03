@@ -1,0 +1,8 @@
+.test {
+  color: white;
+  text-shadow: 1px 1px 1px #969696;
+  padding: 2em; }
+  .test.hovered {
+    background: orange; }
+  .test.normal {
+    background: #f2f2f2; }
