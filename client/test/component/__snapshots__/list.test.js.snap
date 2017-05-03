@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Component renders List 1`] = `
+<table
+  className="myClass"
+>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Name 1
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Name 2
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Name 3
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
